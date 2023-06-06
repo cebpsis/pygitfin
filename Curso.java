@@ -50,5 +50,9 @@ public class Curso {
     }
 
 //Nuevo cambio de archivo
-	System.out.println("Hola soy primer cambio");    
+	System.out.println("Hola soy primer cambio");
+    
+//Nuevo cambio de arfrcivo
+    System.out.println("Hola soy el segundo cambio");
+    
 }
